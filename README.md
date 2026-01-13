@@ -11,16 +11,7 @@ Welcome to my repository dedicated to learning Python. Here I switch from Embedd
 Each folder contains a standalone Python script and its documentation.
 
 1. **[Rock Paper Scissors](./01_Rock_Paper_Scissors)** - A terminal-based game practicing functions, loops, and the `random` module.
-2. *(Coming soon...)* - Next logic exercise.
-
----
-
-### 🎮 Project Details: Rock Paper Scissors
-Specifically, this first project covers:
-* **Function definitions** for modular code.
-* **While loops** with complex exit conditions.
-* **Input validation** (using `.lower()` to handle user typos).
-* **Randomization** to simulate computer AI.
+2. **[Blackjack](./02_Blackjack)** - A terminal-based card game featuring automated dealer logic. This project focuses on managing state with lists and dictionaries, complex loop nesting, and input validation.
 
 ---
 *Created by Kamil Ciesielski*
